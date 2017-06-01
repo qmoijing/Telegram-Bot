@@ -35,7 +35,8 @@ app.py中【API_TOKEN】【WEBHOOK_URL】【PhantomJS 檔案路徑】 需要設�
 
 ### Hou to Use
 #### 首爾天氣
-輸入"天氣" -> Bot回傳**當天首爾天氣資訊**
+輸入"天氣" -> Bot回傳**當天首爾天氣資訊**<br />
+![weather](./img/weather.jpg)
 #### 匯率換算
 輸入"匯率" -> Bot回傳"請輸入韓圜金額" -> 輸入**數字** -> Bot回傳**所對應的台幣金額**
 #### 地鐵資訊
