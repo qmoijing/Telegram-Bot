@@ -1,7 +1,7 @@
 # Telegram-Bot
 Bot Name:SeoulPass<br />
 Bot Username:SeoulPass_Bot<br />
-由於暑假時要和朋友去首爾自助旅行，因此藉由這次的Project去實作一個包含首爾天氣、地鐵資訊、匯率換算這三個功能的聊天機器人
+藉由這次的Project去實作一個包含首爾天氣、地鐵資訊、匯率換算這三個功能的聊天機器人
 
 ## Setup
 ### 操作環境
